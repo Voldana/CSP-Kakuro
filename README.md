@@ -12,5 +12,3 @@ In the first line the number of columns will be given and in the second line the
 Then the table will be given, the number 0 shows the empty cells in the table and negative numbers represent the black cells
 
 In the output the finalized table will be printed with actual numbers instead of zeros.
-
-![alt text](https://ibb.co/5BCRhs8/img.png)
